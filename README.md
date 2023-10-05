@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/mohit-singh-250911234/
 " target="_blank"> Mohit Singh </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Aspiring+Software+Developer+%3A)" /> </h3>
 
 - 🌱 I’m currently learning **DSA(coding part and problem solving skill)**
 
