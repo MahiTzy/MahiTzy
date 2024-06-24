@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA(coding part and problem solving skill)**
 
-- 💬 Ask me about **Web Development, Java, MySQL**
+- 💬 Ask me about **Web Development, Java, DBMS**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-mohit-one.vercel.app/" target="_blank">Portfolio</a>**
 
@@ -11,8 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/mohit-singh-250911234/
-"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohit-singh-250911234/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:msakra000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/mohitsingh0"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
@@ -30,6 +31,7 @@
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="SpringBoot" src="https://img.shields.io/badge/spring-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
 <h3 align="left">Languages :</h3>
